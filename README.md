@@ -1,0 +1,2 @@
+# curagna
+readme eta son
